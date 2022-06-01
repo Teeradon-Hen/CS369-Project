@@ -1,0 +1,15 @@
+.swal-text {
+    background-color: #FEFAE3;
+    padding: 17px;
+    border: 1px solid #F0E1A1;
+    display: block;
+    margin: 22px;
+    text-align: center;
+    font-size:23px;
+    color: #61534e;
+  }
+
+.swal-button {
+    font-family: FC Minimal Regular;
+    font-size: 20px;
+}
